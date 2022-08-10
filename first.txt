@@ -1,0 +1,11 @@
+Fleek is a B2C startup in the Fintech space building the payment system for the
+subscription economy. We have raised pre-seed funding from some of the leading
+investors in the country. A small brief about their product - To build the payment
+system for the subscription economy and make it easier to discover and manage
+subscription payments in India and abroad. To give subscription merchants the
+power to increase their offering by providing user subscription data, multiple login
+authentication, distribution and one click subscription checkouts. To enable users to
+participate in the subscription economy & increase adoption of new subscriptions.
+The core team come from strong backgrounds having been alumni of IIT Madras,
+IIM Calcutta as well as having worked with some of the top startups in the
+ecosystem including Swiggy, Mckinsey, Barclays, etc..
